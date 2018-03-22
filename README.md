@@ -1,0 +1,2 @@
+# FAULT-ATTACK-ON-ROADRUNNER-BLOCK-CIPHER
+ Now with this insight we can do fault attack on RoadRunneR block cipher and after taking both cipher text and faulty cipher text (that comes after putting fault in the 9th round key)we try to figure out the key of block cipher. Basically we get the equations from the cipher(i.e in figure 1) in which there are some unknown variables and we try to find that.
